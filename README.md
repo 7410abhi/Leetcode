@@ -25,6 +25,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/7410abhi/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/7410abhi/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/7410abhi/Leetcode/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0045-jump-game-ii](https://github.com/7410abhi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/7410abhi/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/7410abhi/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/7410abhi/Leetcode/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,4 +75,8 @@
 | ------- |
 | [0046-permutations](https://github.com/7410abhi/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/7410abhi/Leetcode/tree/master/0047-permutations-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/7410abhi/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
