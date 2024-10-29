@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/7410abhi/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/7410abhi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/7410abhi/Leetcode/tree/master/0038-count-and-say) |
 | [1197-parsing-a-boolean-expression](https://github.com/7410abhi/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Stack
@@ -24,4 +25,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/7410abhi/Leetcode/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/7410abhi/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
