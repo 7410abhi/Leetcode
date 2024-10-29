@@ -9,6 +9,7 @@
 | [0020-valid-parentheses](https://github.com/7410abhi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/7410abhi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/7410abhi/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/7410abhi/Leetcode/tree/master/0049-group-anagrams) |
 | [1197-parsing-a-boolean-expression](https://github.com/7410abhi/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Stack
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/7410abhi/Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/7410abhi/Leetcode/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | [0046-permutations](https://github.com/7410abhi/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/7410abhi/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/7410abhi/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/7410abhi/Leetcode/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,4 +82,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/7410abhi/Leetcode/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/7410abhi/Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
