@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/7410abhi/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/7410abhi/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
