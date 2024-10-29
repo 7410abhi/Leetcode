@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/7410abhi/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/7410abhi/Leetcode/tree/master/0050-powx-n) |
 | [1197-parsing-a-boolean-expression](https://github.com/7410abhi/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Math
 |  |
@@ -27,6 +28,7 @@
 | [0009-palindrome-number](https://github.com/7410abhi/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/7410abhi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/7410abhi/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/7410abhi/Leetcode/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
