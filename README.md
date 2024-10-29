@@ -43,6 +43,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7410abhi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/7410abhi/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/7410abhi/Leetcode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/7410abhi/Leetcode/tree/master/0045-jump-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/7410abhi/Leetcode/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/7410abhi/Leetcode/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/7410abhi/Leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
