@@ -45,6 +45,7 @@
 | [0035-search-insert-position](https://github.com/7410abhi/Leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/7410abhi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/7410abhi/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/7410abhi/Leetcode/tree/master/0047-permutations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +72,5 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/7410abhi/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/7410abhi/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
