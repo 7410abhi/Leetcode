@@ -23,6 +23,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/7410abhi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/7410abhi/Leetcode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/7410abhi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/7410abhi/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Recursion
 |  |
@@ -182,4 +183,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/7410abhi/Leetcode/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/7410abhi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/7410abhi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/7410abhi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
