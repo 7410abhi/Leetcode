@@ -55,6 +55,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/7410abhi/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/7410abhi/Leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/7410abhi/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0061-rotate-list](https://github.com/7410abhi/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/7410abhi/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/7410abhi/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/7410abhi/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## String Matching
 |  |
 | ------- |
