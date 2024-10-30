@@ -93,6 +93,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/7410abhi/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/7410abhi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/7410abhi/Leetcode/tree/master/0090-subsets-ii) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/7410abhi/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0069-sqrtx](https://github.com/7410abhi/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/7410abhi/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/7410abhi/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/7410abhi/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,11 +132,13 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/7410abhi/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/7410abhi/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/7410abhi/Leetcode/tree/master/0097-interleaving-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/7410abhi/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/7410abhi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/7410abhi/Leetcode/tree/master/0055-jump-game) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/7410abhi/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Backtracking
 |  |
 | ------- |
