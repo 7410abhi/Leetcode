@@ -13,6 +13,7 @@
 | [0058-length-of-last-word](https://github.com/7410abhi/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/7410abhi/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/7410abhi/Leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/7410abhi/Leetcode/tree/master/0072-edit-distance) |
 | [1197-parsing-a-boolean-expression](https://github.com/7410abhi/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Stack
 |  |
@@ -96,6 +97,7 @@
 | [0062-unique-paths](https://github.com/7410abhi/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/7410abhi/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/7410abhi/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/7410abhi/Leetcode/tree/master/0072-edit-distance) |
 ## Greedy
 |  |
 | ------- |
