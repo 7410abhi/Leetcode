@@ -10,6 +10,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/7410abhi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/7410abhi/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/7410abhi/Leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/7410abhi/Leetcode/tree/master/0058-length-of-last-word) |
 | [1197-parsing-a-boolean-expression](https://github.com/7410abhi/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Stack
 |  |
