@@ -31,6 +31,7 @@
 | [0048-rotate-image](https://github.com/7410abhi/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/7410abhi/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/7410abhi/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/7410abhi/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0057-insert-interval](https://github.com/7410abhi/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/7410abhi/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/7410abhi/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/7410abhi/Leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
