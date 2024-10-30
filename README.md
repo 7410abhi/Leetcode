@@ -35,6 +35,7 @@
 | [0066-plus-one](https://github.com/7410abhi/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/7410abhi/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/7410abhi/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/7410abhi/Leetcode/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0055-jump-game](https://github.com/7410abhi/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/7410abhi/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/7410abhi/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/7410abhi/Leetcode/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/7410abhi/Leetcode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/7410abhi/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
