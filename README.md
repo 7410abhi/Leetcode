@@ -34,6 +34,7 @@
 | [0062-unique-paths](https://github.com/7410abhi/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/7410abhi/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/7410abhi/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/7410abhi/Leetcode/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/7410abhi/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/7410abhi/Leetcode/tree/master/0069-sqrtx) |
 ## Dynamic Programming
 |  |
 | ------- |
