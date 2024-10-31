@@ -93,6 +93,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/7410abhi/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/7410abhi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/7410abhi/Leetcode/tree/master/0090-subsets-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/7410abhi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/7410abhi/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/7410abhi/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -134,6 +135,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/7410abhi/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/7410abhi/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/7410abhi/Leetcode/tree/master/0097-interleaving-string) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/7410abhi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/7410abhi/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/7410abhi/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 ## Greedy
@@ -164,6 +166,7 @@
 | [0073-set-matrix-zeroes](https://github.com/7410abhi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/7410abhi/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/7410abhi/Leetcode/tree/master/0079-word-search) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/7410abhi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Sorting
 |  |
 | ------- |
