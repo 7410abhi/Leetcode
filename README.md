@@ -95,6 +95,7 @@
 | [0090-subsets-ii](https://github.com/7410abhi/Leetcode/tree/master/0090-subsets-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/7410abhi/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2554-minimum-total-distance-traveled](https://github.com/7410abhi/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [0096-unique-binary-search-trees](https://github.com/7410abhi/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/7410abhi/Leetcode/tree/master/0097-interleaving-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/7410abhi/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/7410abhi/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 ## Greedy
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [0056-merge-intervals](https://github.com/7410abhi/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/7410abhi/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/7410abhi/Leetcode/tree/master/0088-merge-sorted-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/7410abhi/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 ## Divide and Conquer
 |  |
 | ------- |
