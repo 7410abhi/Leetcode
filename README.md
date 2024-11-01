@@ -209,6 +209,7 @@
 | [0096-unique-binary-search-trees](https://github.com/7410abhi/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/7410abhi/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/7410abhi/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/7410abhi/Leetcode/tree/master/0101-symmetric-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
@@ -216,6 +217,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/7410abhi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/7410abhi/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/7410abhi/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/7410abhi/Leetcode/tree/master/0101-symmetric-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
@@ -225,6 +227,7 @@
 | [0096-unique-binary-search-trees](https://github.com/7410abhi/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/7410abhi/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/7410abhi/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/7410abhi/Leetcode/tree/master/0101-symmetric-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Search Tree
 |  |
@@ -236,5 +239,6 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/7410abhi/Leetcode/tree/master/0101-symmetric-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 <!---LeetCode Topics End-->
