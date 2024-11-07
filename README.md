@@ -20,6 +20,7 @@
 | [0097-interleaving-string](https://github.com/7410abhi/Leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/7410abhi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/7410abhi/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/7410abhi/Leetcode/tree/master/0139-word-break) |
 | [1197-parsing-a-boolean-expression](https://github.com/7410abhi/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/7410abhi/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/7410abhi/Leetcode/tree/master/2580-circular-sentence) |
@@ -63,10 +64,12 @@
 | [0128-longest-consecutive-sequence](https://github.com/7410abhi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/7410abhi/Leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/7410abhi/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/7410abhi/Leetcode/tree/master/0139-word-break) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/7410abhi/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/7410abhi/Leetcode/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -120,6 +123,7 @@
 | [0134-gas-station](https://github.com/7410abhi/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/7410abhi/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/7410abhi/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/7410abhi/Leetcode/tree/master/0139-word-break) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7410abhi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/7410abhi/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -169,6 +173,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/7410abhi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/7410abhi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/7410abhi/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/7410abhi/Leetcode/tree/master/0139-word-break) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7410abhi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/7410abhi/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/7410abhi/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -243,6 +248,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/7410abhi/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/7410abhi/Leetcode/tree/master/0139-word-break) |
 ## Tree
 |  |
 | ------- |
