@@ -95,6 +95,7 @@
 | [0143-reorder-list](https://github.com/7410abhi/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/7410abhi/Leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/7410abhi/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/7410abhi/Leetcode/tree/master/0148-sort-list) |
 ## Array
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0141-linked-list-cycle](https://github.com/7410abhi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/7410abhi/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/7410abhi/Leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/7410abhi/Leetcode/tree/master/0148-sort-list) |
 ## String Matching
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 | [0075-sort-colors](https://github.com/7410abhi/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/7410abhi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/7410abhi/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/7410abhi/Leetcode/tree/master/0148-sort-list) |
 | [2554-minimum-total-distance-traveled](https://github.com/7410abhi/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 ## Divide and Conquer
 |  |
@@ -241,6 +244,7 @@
 | [0053-maximum-subarray](https://github.com/7410abhi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7410abhi/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/7410abhi/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/7410abhi/Leetcode/tree/master/0148-sort-list) |
 ## Simulation
 |  |
 | ------- |
@@ -373,4 +377,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/7410abhi/Leetcode/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/7410abhi/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
