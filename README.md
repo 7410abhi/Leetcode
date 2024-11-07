@@ -25,6 +25,7 @@
 | [0165-compare-version-numbers](https://github.com/7410abhi/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/7410abhi/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/7410abhi/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/7410abhi/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/7410abhi/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/7410abhi/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/7410abhi/Leetcode/tree/master/2580-circular-sentence) |
@@ -66,6 +67,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/7410abhi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/7410abhi/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/7410abhi/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/7410abhi/Leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Hash Table
 |  |
 | ------- |
