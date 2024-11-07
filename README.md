@@ -112,6 +112,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/7410abhi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/7410abhi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/7410abhi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/7410abhi/Leetcode/tree/master/0130-surrounded-regions) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7410abhi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/7410abhi/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -193,6 +194,7 @@
 | [0073-set-matrix-zeroes](https://github.com/7410abhi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/7410abhi/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/7410abhi/Leetcode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/7410abhi/Leetcode/tree/master/0130-surrounded-regions) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7410abhi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Sorting
 |  |
@@ -267,6 +269,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/7410abhi/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/7410abhi/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/7410abhi/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/7410abhi/Leetcode/tree/master/0130-surrounded-regions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
@@ -309,9 +312,11 @@
 | [0112-path-sum](https://github.com/7410abhi/Leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/7410abhi/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/7410abhi/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/7410abhi/Leetcode/tree/master/0130-surrounded-regions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/7410abhi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/7410abhi/Leetcode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
