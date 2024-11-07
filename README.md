@@ -18,6 +18,7 @@
 | [0091-decode-ways](https://github.com/7410abhi/Leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/7410abhi/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/7410abhi/Leetcode/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/7410abhi/Leetcode/tree/master/0125-valid-palindrome) |
 | [1197-parsing-a-boolean-expression](https://github.com/7410abhi/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/7410abhi/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/7410abhi/Leetcode/tree/master/2580-circular-sentence) |
@@ -125,6 +126,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/7410abhi/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/7410abhi/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/7410abhi/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/7410abhi/Leetcode/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
