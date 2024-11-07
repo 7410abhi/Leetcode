@@ -142,6 +142,7 @@
 | [0139-word-break](https://github.com/7410abhi/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/7410abhi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/7410abhi/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/7410abhi/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7410abhi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/7410abhi/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -175,6 +176,7 @@
 | [0069-sqrtx](https://github.com/7410abhi/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/7410abhi/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/7410abhi/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/7410abhi/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/7410abhi/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Dynamic Programming
 |  |
