@@ -83,6 +83,7 @@
 | [0146-lru-cache](https://github.com/7410abhi/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/7410abhi/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/7410abhi/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/7410abhi/Leetcode/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [0162-find-peak-element](https://github.com/7410abhi/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/7410abhi/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/7410abhi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/7410abhi/Leetcode/tree/master/0169-majority-element) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7410abhi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/7410abhi/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -264,6 +266,7 @@
 | [0147-insertion-sort-list](https://github.com/7410abhi/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/7410abhi/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/7410abhi/Leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/7410abhi/Leetcode/tree/master/0169-majority-element) |
 | [2554-minimum-total-distance-traveled](https://github.com/7410abhi/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 ## Divide and Conquer
 |  |
@@ -272,6 +275,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7410abhi/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/7410abhi/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/7410abhi/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/7410abhi/Leetcode/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
@@ -417,4 +421,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/7410abhi/Leetcode/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/7410abhi/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
