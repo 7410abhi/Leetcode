@@ -116,6 +116,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/7410abhi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/7410abhi/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/7410abhi/Leetcode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/7410abhi/Leetcode/tree/master/0136-single-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7410abhi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/7410abhi/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -233,6 +234,7 @@
 | [0078-subsets](https://github.com/7410abhi/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/7410abhi/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/7410abhi/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/7410abhi/Leetcode/tree/master/0136-single-number) |
 ## Memoization
 |  |
 | ------- |
