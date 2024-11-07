@@ -23,6 +23,7 @@
 | [0139-word-break](https://github.com/7410abhi/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/7410abhi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/7410abhi/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/7410abhi/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1197-parsing-a-boolean-expression](https://github.com/7410abhi/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/7410abhi/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/7410abhi/Leetcode/tree/master/2580-circular-sentence) |
@@ -62,6 +63,7 @@
 | [0089-gray-code](https://github.com/7410abhi/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/7410abhi/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/7410abhi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/7410abhi/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/7410abhi/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/7410abhi/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/7410abhi/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/7410abhi/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 ## Trie
 |  |
 | ------- |
