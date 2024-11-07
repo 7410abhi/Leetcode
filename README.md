@@ -71,6 +71,7 @@
 | [0139-word-break](https://github.com/7410abhi/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/7410abhi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/7410abhi/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/7410abhi/Leetcode/tree/master/0146-lru-cache) |
 ## Trie
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0141-linked-list-cycle](https://github.com/7410abhi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/7410abhi/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/7410abhi/Leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/7410abhi/Leetcode/tree/master/0146-lru-cache) |
 ## Array
 |  |
 | ------- |
@@ -361,4 +363,12 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/7410abhi/Leetcode/tree/master/0133-clone-graph) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/7410abhi/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/7410abhi/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
