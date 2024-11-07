@@ -225,6 +225,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/7410abhi/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/7410abhi/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/7410abhi/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/7410abhi/Leetcode/tree/master/0112-path-sum) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
@@ -235,6 +236,7 @@
 | [0101-symmetric-tree](https://github.com/7410abhi/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/7410abhi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/7410abhi/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/7410abhi/Leetcode/tree/master/0112-path-sum) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
@@ -252,6 +254,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/7410abhi/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/7410abhi/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/7410abhi/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/7410abhi/Leetcode/tree/master/0112-path-sum) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Search Tree
 |  |
@@ -268,5 +271,6 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/7410abhi/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/7410abhi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/7410abhi/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/7410abhi/Leetcode/tree/master/0112-path-sum) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 <!---LeetCode Topics End-->
