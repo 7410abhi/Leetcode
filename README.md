@@ -104,6 +104,7 @@
 | [0090-subsets-ii](https://github.com/7410abhi/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/7410abhi/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/7410abhi/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/7410abhi/Leetcode/tree/master/0118-pascals-triangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7410abhi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/7410abhi/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -146,6 +147,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/7410abhi/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/7410abhi/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/7410abhi/Leetcode/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/7410abhi/Leetcode/tree/master/0118-pascals-triangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/7410abhi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/7410abhi/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/7410abhi/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
