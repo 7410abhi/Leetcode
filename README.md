@@ -28,6 +28,7 @@
 | [0020-valid-parentheses](https://github.com/7410abhi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/7410abhi/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/7410abhi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/7410abhi/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/7410abhi/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Recursion
 |  |
@@ -70,6 +71,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/7410abhi/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/7410abhi/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/7410abhi/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/7410abhi/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -228,6 +230,7 @@
 | [0110-balanced-binary-tree](https://github.com/7410abhi/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/7410abhi/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/7410abhi/Leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/7410abhi/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
@@ -240,6 +243,7 @@
 | [0110-balanced-binary-tree](https://github.com/7410abhi/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/7410abhi/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/7410abhi/Leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/7410abhi/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
@@ -259,6 +263,7 @@
 | [0110-balanced-binary-tree](https://github.com/7410abhi/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/7410abhi/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/7410abhi/Leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/7410abhi/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/7410abhi/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Search Tree
 |  |
